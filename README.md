@@ -3,9 +3,6 @@
 AI Image Classifier is a machine learning model that can effectively classify Real and AI Generated Images.
 
 # Table of Contents
-
-- [AI Image Classifier](#ai-image-classifier)
-- [Table of Contents](#table-of-contents)
 - [Brief Overview](#brief-overview)
 - [Installation](#installation)
 - [Data Sources](#data-sources)
